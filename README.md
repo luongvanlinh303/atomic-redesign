@@ -72,4 +72,4 @@ Atomic ReDesign replaces the atomic unit from "UI" to "dependence", but the flow
 By performing "redefinition of atoms" as explained, it is possible to make the design rules suitable for the development target. In this article, we focused on the differences between atoms in "design system design / application design", but redefining atoms other than "state-dependent" does not mean that they can be applied to modular design in general. Is not it.
 
 ### - Link Refer:
-![09-link](https://zenn.dev/takepepe/articles/atomic-redesign)
+(https://zenn.dev/takepepe/articles/atomic-redesign)
