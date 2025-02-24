@@ -70,3 +70,6 @@ FWs such as Next.js define a page along with routing. It is your responsibility 
 Atomic ReDesign replaces the atomic unit from "UI" to "dependence", but the flow / division thesaurus that builds the final product follows the original Atomic Design as it is. The process of dividing into atoms is equivalent to the process of refactoring, which gradually removes dependence.
 
 By performing "redefinition of atoms" as explained, it is possible to make the design rules suitable for the development target. In this article, we focused on the differences between atoms in "design system design / application design", but redefining atoms other than "state-dependent" does not mean that they can be applied to modular design in general. Is not it.
+
+# - Link Refer:
+[text](https://zenn.dev/takepepe/articles/atomic-redesign)
